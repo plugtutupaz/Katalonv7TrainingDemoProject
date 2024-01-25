@@ -16,3 +16,13 @@ Port number: 3306
 
 jdbc:mysql://localhost:3306/db?user=sql6679298&disableMariaDbDriver
 jdbc:mysql://sql6.freesqldatabase.com:3306/sql6679298
+
+
+github
+plugtutupaz
+https://github.com/plugtutupaz/Katalonv7TrainingDemoProject.git
+https://github.com/plugtutupaz/Katalonv7TrainingDemoProject
+
+Token
+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
+If password does not work - https://stackoverflow.com/questions/30421875/cant-connect-to-any-uri-error-while-commiting-code-from-eclipse-to-git-reposito
