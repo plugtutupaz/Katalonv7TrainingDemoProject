@@ -1,0 +1,5 @@
+http://demoaut.katalon.com/
+
+https://katalon-demo-cura.herokuapp.com
+
+https://opensource-demo.orangehrmlive.com

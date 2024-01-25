@@ -1,0 +1,18 @@
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+https://opensource-demo.orangehrmlive.com
+
+
+sql6.freesqldatabase.com
+sql6679298
+sql6679298
+87zQMnrjpf
+
+Host: sql6.freesqldatabase.com
+Database name: sql6679298
+Database user: sql6679298
+Database password: 87zQMnrjpf
+Port number: 3306
+
+jdbc:mysql://localhost:3306/db?user=sql6679298&disableMariaDbDriver
+jdbc:mysql://sql6.freesqldatabase.com:3306/sql6679298
