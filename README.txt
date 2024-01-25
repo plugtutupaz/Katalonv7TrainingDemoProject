@@ -1,1 +1,1 @@
-"# Katalonv7TrainingDemoProject added by Portia" 
+"# Katalonv7TrainingDemoProject added by Portia Lugtu-Tupaz" 
